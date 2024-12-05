@@ -2,3 +2,7 @@ Para rodar:
 javac ChatServer.java ChatClient.java
 java ChatServer 8000
 java ChatClient localhost 8000
+
+Coisas para verificar:
+A parte das notas a ver se funciona tudo bem
+
